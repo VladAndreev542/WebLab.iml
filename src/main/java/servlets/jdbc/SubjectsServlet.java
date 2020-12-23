@@ -32,7 +32,7 @@ public class SubjectsServlet extends HttpServlet {
             }
 
             statement.close();
-            //connection.close();
+            connection.close();
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }
