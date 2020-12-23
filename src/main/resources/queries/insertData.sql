@@ -1,0 +1,3 @@
+insert into service (title, description, price) values ('Первинна консультація', 'складання плану лікування, рентгенографія', 250);
+insert into service (title, description, price) values ('Професійна гігієна зубів','огляд, визначення індексу гігієни, професійна чистка', 780);
+insert into service (title, description, price) values ('Лікування початкового карієсу', 'складання плану лікування, рентгенографія, кофердам, комплексне знеболення', 820);
